@@ -5,5 +5,14 @@
   "main": "index.js",
   "license": "MIT",
   "repository": "https://github.com/dlcjfgmlnasa/typechain.git",
-  "author": "이철희 (dlcjfgmlnasa@naver.com)"
+  "author": "이철희 (dlcjfgmlnasa@naver.com)",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/index.js \" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^2.1.2"
+  },
+  "dependencies": {
+    "typescript": "^3.3.3333"
+  }
 }
