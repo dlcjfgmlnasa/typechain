@@ -1,6 +1,9 @@
 {
   "name": "typechain",
   "version": "1.0.0",
+  "description": "Learning Typescipt by making a Blockchain with it",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/dlcjfgmlnasa/typechain.git",
+  "author": "이철희 (dlcjfgmlnasa@naver.com)"
 }
